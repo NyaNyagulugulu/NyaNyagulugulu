@@ -1,6 +1,6 @@
 <!-- 舞萌官网 Banner 顶图 -->
 <p align="center">
-  <img src="https://maimai.sega.jp/storage/root/logo.png" width="100%" />
+  <img src="https://maimai.sega.jp/storage/root/logo.png" alt="Maimai Logo" width="100%" style="max-width:400px;min-width:180px;height:auto;display:block;margin:0 auto;" />
 </p>
 
 <!-- 打字欢迎动画 -->
