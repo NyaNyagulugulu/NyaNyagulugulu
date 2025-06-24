@@ -5,9 +5,9 @@
 
 <!-- 打字欢迎动画 -->
 <p align="center">
-  <img height="1" src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+Mono&duration=3000&pause=1000&color=FF6AC1&center=true&width=600&lines=Nya~%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%96%B5%E5%96%B5%E6%98%9F%E2%98%86" alt="Typing SVG" /><br>
-  <img height="0" src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+Mono&duration=3000&pause=1000&color=FF6AC1&center=true&width=600&lines=%E8%BF%99%E9%87%8C%E6%98%AF%20NyaNyagulugulu" alt="Typing SVG" /><br>
-  <img height="10" src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+Mono&duration=3000&pause=1000&color=FF6AC1&center=true&width=600&lines=%E9%9F%B3%E6%B8%B8%E5%AE%85%C2%B7%E7%A8%8B%E5%BA%8F%E7%8C%AB%E5%A8%98%C2%B7SEGA%E4%BF%A1%E5%BE%92~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+Mono&duration=3000&pause=1000&color=FF6AC1&center=true&width=600&lines=Nya~%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%96%B5%E5%96%B5%E6%98%9F%E2%98%86" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+Mono&duration=3000&pause=1000&color=FF6AC1&center=true&width=600&lines=%E8%BF%99%E9%87%8C%E6%98%AF%20NyaNyagulugulu" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+Mono&duration=3000&pause=1000&color=FF6AC1&center=true&width=600&lines=%E9%9F%B3%E6%B8%B8%E5%AE%85%C2%B7%E7%A8%8B%E5%BA%8F%E7%8C%AB%E5%A8%98%C2%B7SEGA%E4%BF%A1%E5%BE%92~" alt="Typing SVG" />
 </p>
 
 <!-- QQ 头像 -->
