@@ -17,7 +17,7 @@
 
 <!-- 技术图标 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,vue,nodejs,express,ts&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,vue,nodejs,ts&theme=light" />
 </p>
 
 <!-- 舞萌角色图（来自官网） -->
